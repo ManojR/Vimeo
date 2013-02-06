@@ -1,0 +1,6 @@
+SQL Program to update staffpick status as 'Y'
+=============================================
+
+update search_vimeo,search_staffpick
+set staffpick = 'Y'
+where search_vimeo.url = search_staffpick.url;
