@@ -15,3 +15,6 @@ In this project I have created three .py files. There are as follows :-
 
 	With use of users url from search_staffpick table we have updated search_vimeo table for the field staffpick as 'Y'.
 
+
+In Django I have used search_posts as models, I have copied the 5000 data from search_vimeo to search_posts table in webserver.
+
